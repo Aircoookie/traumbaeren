@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lischens Traumbären",
+    "description": "",
+    "home_page_url": "https://traumbaeren.de",
+    "feed_url": "https://traumbaeren.de/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lisa"
+    },
+    "items": [
+        {
+            "id": "https://traumbaeren.de/mik-test.html",
+            "url": "https://traumbaeren.de/mik-test.html",
+            "title": "mik test.",
+            "summary": "Dies ist ein Mik. Auch bekannt als \"Big Nose Buddy\".",
+            "content_html": "<p>Dies ist ein Mik. Auch bekannt als \"Big Nose Buddy\".</p>",
+            "image": "https://traumbaeren.de/media/posts/1/mik.jpg",
+            "author": {
+                "name": "Lisa"
+            },
+            "tags": [
+                   "Testbaeren"
+            ],
+            "date_published": "2026-02-04T18:57:36+01:00",
+            "date_modified": "2026-02-04T19:15:27+01:00"
+        }
+    ]
+}

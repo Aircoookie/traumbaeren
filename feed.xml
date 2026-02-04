@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Lischens Traumbären</title>
+    <link href="https://traumbaeren.de/feed.xml" rel="self" />
+    <link href="https://traumbaeren.de" />
+    <updated>2026-02-04T19:15:27+01:00</updated>
+    <author>
+        <name>Lisa</name>
+    </author>
+    <id>https://traumbaeren.de</id>
+
+    <entry>
+        <title>mik test.</title>
+        <author>
+            <name>Lisa</name>
+        </author>
+        <link href="https://traumbaeren.de/mik-test.html"/>
+        <id>https://traumbaeren.de/mik-test.html</id>
+        <media:content url="https://traumbaeren.de/media/posts/1/mik.jpg" medium="image" />
+            <category term="Testbaeren"/>
+
+        <updated>2026-02-04T18:57:36+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://traumbaeren.de/media/posts/1/mik.jpg" alt="mik." />
+                    Dies ist ein Mik. Auch bekannt als "Big Nose Buddy".
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://traumbaeren.de/media/posts/1/mik.jpg" class="type:primaryImage" alt="mik." /></p>
+                <p>Dies ist ein Mik. Auch bekannt als "Big Nose Buddy".</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

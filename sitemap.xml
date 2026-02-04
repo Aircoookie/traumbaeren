@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://traumbaeren.de/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://traumbaeren.de/</loc>
+</url>
+<url>
+<loc>https://traumbaeren.de/mik-test.html</loc>
+<lastmod>2026-02-04T19:15:27+01:00</lastmod>
+<image:image>
+<image:loc>https://traumbaeren.de/media/posts/1/mik.jpg</image:loc>
+<image:title><![CDATA[mik.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://traumbaeren.de/testgallery.html</loc>
+<lastmod>2026-02-04T19:39:58+01:00</lastmod>
+<image:image>
+<image:loc>https://traumbaeren.de/media/posts/2/gallery/mik.jpg</image:loc>
+<image:title><![CDATA[Mik on black bg]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://traumbaeren.de/media/posts/2/gallery/mik1_temp.jpg</image:loc>
+<image:title><![CDATA[Mik on white bg]]></image:title>
+</image:image>
+</url>
+</urlset>
